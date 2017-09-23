@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+derby.log
+metastore_db/
+env/
+.cache/
+*.pyc
+cache/
+config.py
